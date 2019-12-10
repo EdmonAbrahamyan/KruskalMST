@@ -15,4 +15,3 @@ private:
 	Edge**	edges_;
 	int		m_;		//number of edges
 };
-
